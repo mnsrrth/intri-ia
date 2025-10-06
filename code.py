@@ -1,3 +1,4 @@
+# app.py (o code.py)
 import streamlit as st
 # Importa los datos del cuestionario que definimos en el otro archivo
 from quiz_data import QUIZ_DATA 
